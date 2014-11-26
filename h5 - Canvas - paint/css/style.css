@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face
+{
+	font-family: lato-mid;
+	src:url('../fonts/Lato-Regular.ttf');
+}
+body { margin: 0px; padding: 0px; font-family: 'lato-mid', sans-serif; color: #000; overflow: auto;background-color: #d0d0d0;}
+
+#canvasPaint
+{
+	border: 1px solid #aaa;
+	margin:0 auto;
+	display: block;
+	max-width: 100%;
+	height: auto;
+	background-color: #e4e4e4;
+}
